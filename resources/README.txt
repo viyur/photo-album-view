@@ -1,6 +1,5 @@
 CS5004 Homework 9 Shapes Photo Album Part 2 - views
 Name: Hengwei Yang
-NUID: 002675530
 
 
 A. Changes from the Previous Assignment
